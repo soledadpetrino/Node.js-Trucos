@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "eslint": "^6.1.0"
+    "eslint": "^6.8.0"
   },
   "prettier": {
     "useTabs": false,
@@ -20,16 +20,16 @@
     "printWidth": 160
   },
   "eslintConfig": {
-		"extends": "plugin:prettier/recommended",
-		"rules": {
-			"semi": [
-				"error",
-				"always"
-			],
-			"quotes": [
-				"error",
-				"double"
-			]
-		}
-	}
+    "extends": "plugin:prettier/recommended",
+    "rules": {
+      "semi": [
+        "error",
+        "always"
+      ],
+      "quotes": [
+        "error",
+        "double"
+      ]
+    }
+  }
 }
